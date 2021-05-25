@@ -1,0 +1,12 @@
+@charset "utf-8";
+@font-face{
+    font-family: 'christmas-love-foever';
+    src: local("christmas-love-foever"),
+    format('embedded-opentype'),
+    url(./fonts/christmas-love-foever.ttf) format ('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 
+}
